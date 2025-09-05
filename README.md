@@ -13,3 +13,7 @@ jupyter notebook
 
 ## Open in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florasteve/ml-foundations-day2/blob/main/notebooks/03_logreg_numpy.ipynb)
+
+## Open in Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florasteve/ml-foundations-day2/blob/main/notebooks/03_logreg_numpy.ipynb)
