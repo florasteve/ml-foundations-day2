@@ -3,4 +3,6 @@ pandas
 matplotlib
 scikit-learn
 jupyter
+nbformat
 nbconvert
+sqlite-utils
