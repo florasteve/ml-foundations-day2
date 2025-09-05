@@ -10,3 +10,4 @@ data/**
 !data/.gitkeep
 !data/*.db
 !data/*.db
+!data/*.db
