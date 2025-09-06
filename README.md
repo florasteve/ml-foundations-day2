@@ -27,7 +27,9 @@ jupyter notebook
 See `docs/model_card_v0.md`.
 
 ### Website
-Locally hosted during development; published static HTML via GitHub Pages (no external service required).
+
+- [Website | ML Foundations — Day 2](https://florasteve.github.io/ml-foundations-day2/)
+  <sub>Locally hosted during development; published static HTML via GitHub Pages.</sub>
 
 ### Launch in Colab
 
