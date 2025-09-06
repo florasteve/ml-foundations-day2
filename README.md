@@ -1,11 +1,3 @@
-<p align="left">
-  <a href="https://florasteve.github.io/ml-foundations-day2/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-ML%20Foundations%E2%80%94Day%202-success?style=for-the-badge">
-  </a>
-  <a href="https://colab.research.google.com/github/florasteve/ml-foundations-day2/blob/main/notebooks/03_logreg_numpy.ipynb">
-    <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
-  </a>
-</p>
 
 # ML Foundations — Day 2
 
@@ -28,8 +20,12 @@ See `docs/model_card_v0.md`.
 
 ### Website
 
-- [Website | ML Foundations — Day 2](https://florasteve.github.io/ml-foundations-day2/)
-  <sub>Locally hosted during development; published static HTML via GitHub Pages.</sub>
+<p>
+  <a href="https://florasteve.github.io/ml-foundations-day2/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-ML%20Foundations%E2%80%94Day%202-success?style=for-the-badge">
+  </a>
+</p>
+<sub>Locally hosted during development; published static HTML via GitHub Pages.</sub>
 
 ### Launch in Colab
 
