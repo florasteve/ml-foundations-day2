@@ -28,3 +28,14 @@ See `docs/model_card_v0.md`.
 
 ### Website
 Locally hosted during development; published static HTML via GitHub Pages (no external service required).
+
+### Launch in Colab
+
+- 02 — Probability & Statistics  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florasteve/ml-foundations-day2/blob/main/notebooks/02_probability_stats_basics.ipynb)
+
+- 03 — Logistic Regression (NumPy)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florasteve/ml-foundations-day2/blob/main/notebooks/03_logreg_numpy.ipynb)
+
+- 04 — Employee Churn (SQL → pandas → ML)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/florasteve/ml-foundations-day2/blob/main/notebooks/04_employee_churn.ipynb)
