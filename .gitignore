@@ -11,3 +11,4 @@ data/**
 !data/*.db
 !data/*.db
 !data/*.db
+README_backup_*.md
